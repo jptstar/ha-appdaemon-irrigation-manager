@@ -1,0 +1,11 @@
+irrigation_manager:
+  module: irrigation_manager
+  class: IrrigationManager
+
+  # Optional: override only entities that differ from the defaults.
+  # entities:
+  #   wago_active: binary_sensor.my_irrigation_active
+  #   wago_cycles: number.my_irrigation_cycles
+  #   wago_multiplier: number.my_irrigation_multiplier
+  #   wago_start: button.my_irrigation_start
+  #   wago_stop: button.my_irrigation_stop
